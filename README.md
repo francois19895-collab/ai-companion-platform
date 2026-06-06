@@ -1,4 +1,4 @@
-# AI Companion Platform - Next-Gen AI Girlfriend Experience
+# OnlyFans AI 18+ — AI-Powered Adult Content Platform
 
 Premium AI companion platform with photorealistic characters — chat, photo, video, voice. All AI-generated on local GPU, zero cloud costs.
 
