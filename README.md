@@ -40,8 +40,8 @@ A self-hosted alternative to OnlyFans/Character.AI powered entirely by local AI 
 - Real-time TTS in chat
 
 ### Platform
-- Token-based economy (photo = 5 tokens, video = 20 tokens)
-- Subscription tiers (Free / Basic $9.99 / Pro $19.99 / VIP $49.99)
+- Token-based economy (photo = 0tokens, video = 0 tokens)
+- Subscription tiers (Free / Basic $0 / Pro $0 / VIP $0
 - Secure JWT authentication
 - Mobile-responsive PWA
 - Payment integration (CCBill + crypto USDT)
